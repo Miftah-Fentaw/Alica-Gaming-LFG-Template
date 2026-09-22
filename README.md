@@ -2,7 +2,7 @@
   <img src="public/previeww.png" alt="ALICA Ethiopian Gaming LFG Template preview" width="100%" />
 </p>
 
-<h1 align="center">ALICA — Ethiopian Gaming LFG Template</h1>
+<h1 align="center">ALICA - Ethiopian Gaming LFG Template</h1>
 
 <p align="center">
   <strong>Cyberpunk gaming landing page</strong> for Ethiopian LFG / esports communities.<br />
