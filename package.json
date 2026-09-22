@@ -1,7 +1,28 @@
 {
-  "name": "games",
-  "version": "0.1.0",
+  "name": "alica-gaming-lfg-template",
+  "version": "1.0.0",
   "private": true,
+  "description": "ALICA — Ethiopian Gaming LFG landing page template by Miftah Fentaw. Next.js + Tailwind. MIT licensed.",
+  "author": {
+    "name": "Miftah Fentaw",
+    "url": "https://github.com/miftah"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miftah/Alica-Gaming-LFG-Template"
+  },
+  "keywords": [
+    "nextjs",
+    "gaming",
+    "lfg",
+    "ethiopia",
+    "esports",
+    "landing-page",
+    "template",
+    "tailwindcss",
+    "miftah-fentaw"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
