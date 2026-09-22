@@ -1,0 +1,28 @@
+{
+  "name": "ALICA — Ethiopian Gaming LFG Template",
+  "short_name": "ALICA",
+  "description": "Ethiopian gaming / LFG landing page template by Miftah Fentaw. MIT licensed.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#00c8f0",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
